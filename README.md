@@ -1,0 +1,3 @@
+# BeforeHeShrugged
+
+Django powered blog
